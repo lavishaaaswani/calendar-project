@@ -1,0 +1,23 @@
+# Configuration file with sensitive credentials
+config.properties
+
+# Compiled Java class files
+*.class
+
+# Generated output files
+*.xlsx
+
+# Ignore the lib folder (it's better to list dependencies in the README)
+/lib/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+``
